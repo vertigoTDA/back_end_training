@@ -1,0 +1,5 @@
+Встановлення Express
+npm init -y
+npm install express --save
+
+створення файла server.js
